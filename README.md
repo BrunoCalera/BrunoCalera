@@ -25,3 +25,5 @@ Meu nome é Bruno Calera Sperandio e tenho 19 anos. Sou apaixonado por tecnologi
 <a href="https://github.com/BrunoCalera">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCalera&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+</br>
+![snake gif](https://raw.githubusercontent.com/BrunoCalera/BrunoCalera/output/snake.svg)
