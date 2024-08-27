@@ -5,7 +5,7 @@ Meu nome é Bruno Calera Sperandio e tenho 19 anos. Sou apaixonado por tecnologi
 
 ### Contatos
   <div>
-    <a href = "mailto:contato.brunocalerasp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:brunocalerasp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
   ### Tecnologias que estou trabalhando!
