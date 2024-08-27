@@ -15,4 +15,13 @@ Meu nome é Bruno Calera Sperandio e tenho 19 anos. Sou apaixonado por tecnologi
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whit"/>
+<img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+</br>
+<div>
+<a href="https://github.com/GuiCezaF">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCalera&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
