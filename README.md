@@ -21,10 +21,11 @@ Meu nome é Bruno Calera Sperandio e tenho 19 anos. Sou apaixonado por tecnologi
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/-->
 </div>
 </br>
-<div>
-<a href="https://github.com/BrunoCalera">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCalera&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoCalera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoCalera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" height="150"   alt="languages graph"/>
 </div>
+
 </br> 
   
 ![snake gif](https://raw.githubusercontent.com/BrunoCalera/BrunoCalera/output/snake.svg)
