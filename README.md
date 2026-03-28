@@ -1,7 +1,7 @@
 # Olá 👋 meu nome é Bruno 
 
 ## Sobre mim:
-Meu nome é Bruno Calera Sperandio e tenho 19 anos. Sou apaixonado por tecnologia e atuo como desenvolvedor full stack, o que me permite explorar tanto o front-end quanto o back-end no desenvolvimento de software. Atualmente, faço estágio na Integrativa como desenvolvedor web, onde estou aprofundando meus conhecimentos e ganhando experiência prática. Minha dedicação e entusiasmo por aprender mais sobre tecnologia me motivam a crescer e me destacar cada vez mais na área.
+Meu nome é Bruno Calera Sperandio e tenho 21 anos. Sou apaixonado por tecnologia e atuo como desenvolvedor full stack, o que me permite explorar tanto o front-end quanto o back-end no desenvolvimento de software. Atualmente, faço estágio na Integrativa como desenvolvedor web, onde estou aprofundando meus conhecimentos e ganhando experiência prática. Minha dedicação e entusiasmo por aprender mais sobre tecnologia me motivam a crescer e me destacar cada vez mais na área.
 
 ### Contatos
   <div>
